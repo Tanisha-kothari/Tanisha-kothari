@@ -81,7 +81,7 @@
 <div align="center">
 
 <a href="https://github.com/Tanisha-kothari/chatbot-langchain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanisha-kothari&repo=YOUR-ML-REPO&theme=tokyonight&bg_color=1f1c2e&title_color=8A82FB&text_color=c8c3ff&border_color=3d3580" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanisha-kothari&repo=chatbot-langchain&theme=tokyonight&bg_color=1f1c2e&title_color=8A82FB&text_color=c8c3ff&border_color=3d3580" />
 </a>
 
 </div>
